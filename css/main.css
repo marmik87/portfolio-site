@@ -1,0 +1,12 @@
+body {
+  font-family: 'Roboto Condensed', sans-serif;
+}
+
+.row {
+  margin-top: 15px;
+}
+
+.profile-img {
+  width: 10%;
+  min-width: 100px;
+}
